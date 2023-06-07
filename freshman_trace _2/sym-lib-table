@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NUCLEO-F303K8")(type "KiCad")(uri "${KIPRJMOD}/NUCLEO-F303K8 (1)/NUCLEO-F303K8.kicad_sym")(options "")(descr ""))
+  (lib (name "DIP-OPTICAL-RPR-359F_4P-8.4X4.5MM_")(type "KiCad")(uri "${KIPRJMOD}/DIP-OPTICAL-RPR-359F_4P-8.4X4.5MM_ (1)/DIP-OPTICAL-RPR-359F_4P-8.4X4.5MM_.kicad_sym")(options "")(descr ""))
+  (lib (name "LTH-1550-01")(type "KiCad")(uri "${KIPRJMOD}/LTH-1550-01/LTH-1550-01.kicad_sym")(options "")(descr ""))
+  (lib (name "TL3305CF160QG")(type "KiCad")(uri "${KIPRJMOD}/TL3305CF160QG/TL3305CF160QG.kicad_sym")(options "")(descr ""))
+  (lib (name "TL1105AF160Q")(type "KiCad")(uri "${KIPRJMOD}/TL1105AF160Q/TL1105AF160Q.kicad_sym")(options "")(descr ""))
+)
