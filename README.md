@@ -8,6 +8,6 @@
 
 4,そのほか、外周をGNDで囲んだり、アンテナになっていそうなGNDを極力減らしました。
 
-100mm×100mmに収めているのでJLCPCBで頼むと一週間ぐらいかかる代わりに送料が100円です。
+100mm×100mmに収めているのでJLCPCBで頼むと一週間ぐらいかかる代わりに送料が100円です。ﾔｽｩｲ
 
 <img width="362" alt="pcb" src="https://github.com/Robomech-Micromouse/freshman_trace2/assets/86107451/83d5c58f-ed09-4e5e-bd5c-c04e518e963e">
